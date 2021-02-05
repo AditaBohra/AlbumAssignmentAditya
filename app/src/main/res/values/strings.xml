@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlbumAssignment</string>
+
+    <string name="search_hint">Search Album</string>
+</resources>
